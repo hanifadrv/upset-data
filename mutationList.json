@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/hanifadrv/upset-data/blob/3c7f5043fe04fd1594cfc8941e8cdd54514e358e/mutationList.csv",
+	"file": "https://raw.githubusercontent.com/hanifadrv/upset-data/main/mutationList.csv",
 	"name": "S.pneumoniae CTX Resistance",
 	"header": 0,
 	"separator": ",",
