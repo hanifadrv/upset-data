@@ -1,0 +1,14 @@
+{
+	"file": "https://drive.google.com/file/d/1_uB3hA8HBL7HdLAunf8J-faOXzCmQoeg/view?usp=sharing",
+	"name": "S.pneumoniae CTX Resistance",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Isolate ID" },
+		{ "type": "string", "index": 1, "name": "folP insertion" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 27 }
+	]
+}
